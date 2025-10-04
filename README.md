@@ -4,6 +4,10 @@
 
 ### [1 - Html](https://github.com/omeatai/HTML-CSS-LABS-IFEANYI/blob/main/labs/1.md)
 
+### CODING ADDICT
+
+- [ ] [HTML & CSS Fundamentals](https://www.codingaddict.io/l/products)
+
 ### HTML & CSS BASICS
 
 - [ ] [The Complete Full-Stack Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/)
